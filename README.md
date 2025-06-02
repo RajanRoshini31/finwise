@@ -30,6 +30,13 @@ Chatbot integration with Google's GenAI for personalized responses
 Clone the repository:
 git clone https://github.com/RajanRoshini31/finwise.git
 cd finwise
+File Structure : 
+app.py 
+-backend folder 
+    -all .py files 
+-templated folder
+    -all .html files
+
 Install Python dependencies:
 pip install -r requirements.txt
 Set up MongoDB and update the connection URI in the Flask config.
