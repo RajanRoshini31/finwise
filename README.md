@@ -28,7 +28,7 @@ Chatbot integration with Google's GenAI for personalized responses
 🚀 How to Run Locally
 
 Clone the repository:
-git clone https://github.com/your-username/Finwise.git
+git clone https://github.com/RajanRoshini31/finwise.git
 cd finwise
 Install Python dependencies:
 pip install -r requirements.txt
