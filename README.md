@@ -67,4 +67,19 @@ Internet access for API calls (chatbot and news)
 📱 Android/iOS mobile app versions
 📖 License
 
+![IMG-20250602-WA0002](https://github.com/user-attachments/assets/c006c623-ebb5-437c-b8a2-5ebd90bc8684)
+![IMG-20250602-WA0003](https://github.com/user-attachments/assets/fa321a53-6385-443f-85cf-8ff3f27b4596)
+
+![IMG-202506![IMG-20250602-WA0005](https://github.com/user-attachments/assets/68b42ab1-1f84-4597-a47f-6845b1c267b0)
+02-WA0004](https://github.com/user-attachments/assets/ea423a85-2d76-4582-993b-2ff9b956e98d)
+![IMG-20250602-WA0006](https://github.com/user-attachments/assets/35b3d911-b2cf-4fbf-b257-ce19d56fa9d4)
+![IMG-20250602-WA0007](https://github.com/user-attachments/assets/b9588377-bac7-40ce-b0ea-21cb87f2811d)
+![IMG-20![WhatsApp Image 2025-06-02 at 21 51 26_736d77d0](https://github.com/user-attachments/assets/7368a967-4172-4490-a6c8-6637670d5767)
+250602-WA0008](https://github.com/user-attachments/assets/9db5ea83-b3d0-4abc-a540-f34654bc1ebe)
+
+
+
+![WhatsApp Image 2025![WhatsApp Image 2025-06-02 at 21 57 34_86f75e7a](https://github.com/user-attachments/assets/973e2d38-98d8-47cc-823c-82bd5ddd5dd5)
+-06-02 at 21 52 57_7668c617](https://github.com/user-attachments/assets/4b1e8850-3153-4d11-98e2-3b2a643e95f5)
+
 This project is developed as part of an academic curriculum and is available for educational and non-commercial use only.
