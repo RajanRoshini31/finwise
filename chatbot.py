@@ -3,7 +3,7 @@ import google.generativeai as genai
 import re
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyBViHQL8wjFvbNnQV1UVzhzjzYpBqC7apA")
+genai.configure(api_key="your_API_key")
 
 # Create Flask Blueprint
 chatbot_bp = Blueprint('chatbot', __name__)
